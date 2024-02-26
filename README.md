@@ -1,1 +1,2 @@
-# SerpApiInternshipSearch
+This project utilizes the SerpApi Google Search API to search for internship opportunities based on user-defined criteria such as job title and location. The retrieved internship listings are then stored and managed in a MySQL database, allowing users to easily access and track available opportunities. With automated search capabilities and centralized database management, this project streamlines the process of finding and organizing internship opportunities for aspiring professionals.
+
